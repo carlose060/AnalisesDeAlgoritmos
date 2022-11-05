@@ -1,5 +1,5 @@
 # AnalisesDeAlgoritmos
-Documentação descrevendo todos os detalhes da proposta do trabalho.
+Documentação.pdf descrevendo todos os detalhes da proposta do trabalho.
 
 
 Os arquivos com os algoritmos de cada linguagem está na pasta com seu respectivo nome;
