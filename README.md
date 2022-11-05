@@ -1,6 +1,8 @@
 # AnalisesDeAlgoritmos
 Os arquivos com os algoritmos de cada linguagem está na pasta com seu respectivo nome;
+
 Para executar todos os testes, foi criado um shell script. Onde o mesmo, cria pastas internas dentro de um pasta ./Tempos (criada tambem) para cada tipo de linguagem com divisoes de cada algoritmo.
+
 O comando para executar o script é:
 
 no terminal digite: "sudo bash load_times.sh"
